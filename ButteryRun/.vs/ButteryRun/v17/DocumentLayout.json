@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectsUnity\\ButteryRun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|D:\\ProjectsUnity\\ButteryRun\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|D:\\ProjectsUnity\\ButteryRun\\assets\\scripts\\touchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|d:\\projectsunity\\butteryrun\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|D:\\ProjectsUnity\\ButteryRun\\assets\\scripts\\batteriesfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batteriesfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|D:\\ProjectsUnity\\ButteryRun\\assets\\scripts\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|D:\\ProjectsUnity\\ButteryRun\\assets\\scripts\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C0C84B-F938-E1F4-F0AF-9792E1D1ED8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Initial.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Initial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initial.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Initial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:21:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:05:25.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouchControl.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\TouchControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchControl.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\TouchControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchControl.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:40:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:37:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatteriesFollow.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\BatteriesFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BatteriesFollow.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\BatteriesFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BatteriesFollow.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:22:22.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Battery.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battery.cs",
+              "ToolTip": "D:\\ProjectsUnity\\ButteryRun\\Assets\\Scripts\\Battery.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:21:52.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
